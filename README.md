@@ -24,4 +24,8 @@ Im Code sind mehrere Konfigurationsparameter definiert. Diese sollten an deine A
 ```cpp
 const char* ssid = "dein_wlan";       // Dein WLAN-SSID (Netzwerkname)
 const char* password = "dein_passwort";   // Dein WLAN-Passwort
-const char* hostname = "dein_ESP";  // Dein Hostname
+const char* hostname = "dein_ESP";  // Dein Hostnameconst
+char* mqtt_server = "<deine broker ip>";  // MQTT-Broker IP-Adresse
+const int mqtt_port = 1883;
+const char* mqtt_user = "<mqtt_username>";   // MQTT-Benutzername
+const char* mqtt_pass = "<mqtt_password>"
