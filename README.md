@@ -22,6 +22,6 @@ Im Code sind mehrere Konfigurationsparameter definiert. Diese sollten an deine A
 
 ### WLAN-Einstellungen
 ```cpp
-const char* ssid = "speeed";       // Dein WLAN-SSID (Netzwerkname)
-const char* password = "The_Integtal_is_Real";   // Dein WLAN-Passwort
-const char* hostname = "Thomas_ESP";  // Dein Hostname
+const char* ssid = "dein_wlan";       // Dein WLAN-SSID (Netzwerkname)
+const char* password = "dein_passwort";   // Dein WLAN-Passwort
+const char* hostname = "dein_ESP";  // Dein Hostname
