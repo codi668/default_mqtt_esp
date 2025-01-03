@@ -1,4 +1,4 @@
-# ESP32 MQTT Handle - Grundstruktur
+# ESP32 MQTT  - Grundstruktur
 
 Dies ist eine Grundstruktur für die Integration eines ESP32 mit einem MQTT-Broker. Der Code verbindet sich mit einem WLAN, stellt eine MQTT-Verbindung her und ermöglicht die Veröffentlichung und den Empfang von Nachrichten über MQTT-Themen.
 
